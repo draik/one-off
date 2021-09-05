@@ -14,3 +14,7 @@ HIT = "X"
 
 ## Guess
 3 attempts to guess a number between 1-10.
+
+
+## Tip Calculator
+Calculate the tip amount for 10%, 15%, and 20%
