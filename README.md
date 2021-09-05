@@ -10,3 +10,7 @@ OCEAN = "O"
 MISS = "-"  
 SHIP = "S"  
 HIT = "X"
+
+
+## Guess
+3 attempts to guess a number between 1-10.
